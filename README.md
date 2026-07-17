@@ -24,4 +24,4 @@ With over 16 years of hands-on experience, I design, architect, and deliver robu
 
 ### 🤝 Let's Connect!
 * **Email:** [upendrachowdare@gmail.com](mailto:upendrachowdare@gmail.com)
-* **LinkedIn:** [Insert your LinkedIn Link here]
+* **LinkedIn:** www.linkedin.com/in/raja-madamanchi-902a4115]
