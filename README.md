@@ -15,7 +15,12 @@ I specialize in bridging high-performance backend ecosystems (.NET Core, Node.js
 | **Frontend Leadership** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> `Kendo UI` `HTML5` `CSS3` |
 | **Databases & Storage** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) <br> `NoSQL` `EF Core` |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> `CI/CD Pipelines` `Containerization` |
+## 🚀 Featured Leadership & Domain Experience
 
+*   **Digital Payment Processing (FinTech):** Serving as Architect and Technical Lead driving the technical roadmap, high-throughput system design, and strict security compliance for global payment processing engines using a modern stack (Node, Python, .NET Core) and resilient cloud infrastructure.
+*   **Mortgage & Insurance Enterprise Solutions:** Architected core workflow engines, automated underwriting components, and high-volume data ingestion pipelines. Focused heavily on data integrity, complex rule validation, and regulatory compliance protocols inherent to the financial and insurance lending sectors.
+*   **MES (Manufacturing Execution Systems) & State Modernization:** Led large-scale modernization efforts transforming legacy monolithic systems into modular, API-driven architectures (.NET Core, Angular/React). Orchestrated real-time data streaming, state-level compliance tracking, and automated reporting systems tailored for operational and execution environments.
+*   **Technical Mentorship & Governance:** Guided cross-functional engineering teams, established strict enterprise code quality standards, automated CI/CD pipelines, and championed Clean/Hexagonal Architecture to handle volatile business rules.
 ---
 
 ### 🚀 Featured Leadership Experience
