@@ -23,7 +23,7 @@ I specialize in bridging high-performance backend ecosystems (.NET Core, Node.js
 * **Digital Payment Processing Platform (Paysafe):** Serving as Architect and Technical Lead driving the technical roadmap, system design, and scalability of secure, high-volume payment processing engines using a modern, multi-language stack (Node, Python, .NET Core) and cloud deployments.
 * **State-Level Enterprise Modernization:** Led the architectural redesign and modernization of a high-throughput state-level food licensing and inspection application. Re-architected legacy modules into a modular, API-driven system using .NET Core APIs, Angular, React, and MVC.
 * **Technical Mentorship:** Guided cross-functional development teams, establishing code quality standards, setting up CI/CD pipelines, and driving best practices in Clean Architecture.
-
+💡 Check out my BankingFraudDetection and AiEnabled.PaymentPlatform repositories for practical implementations of these architecture principles.
 ---
 
 ### 📊 GitHub Stats & Ecosystem Activity
