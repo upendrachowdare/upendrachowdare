@@ -15,14 +15,18 @@
   <img src="https://img.shields.io/badge/LLM-AGENTIC%20WORKFLOWS-61DAFB?style=for-the-badge&logo=openai&logoColor=black" />
 </p>
 
-With over 16 years of hands-on experience, I design, architect, and deliver robust, high-performance enterprise applications. Currently, I serve as an *Architect and Technical Lead at Paysafe*, leading the architectural evolution and scalability of secure, high-throughput Digital Payment Processing platforms.
+With over 16 years of hands-on experience, I design, architect, and deliver robust, high-performance enterprise applications. Currently, I serve as an *Architect and Technical Lead at Paysafe*, leading the architectural evolution and scalability of secure, high-throughput Digital Payment Processing platforms. 
+
+I specialize in bridging high-performance backend ecosystems (.NET Core, Node.js, Python) with modern, responsive frontends (Angular / React), fully backed by cloud-native infrastructures (AWS / Azure).
 
 ---
 
-## 🛠️ Color-Coded Technical Ecosystem
+## 🛠️ Color-Coded Technical Ecosystem (IDE Look & Feel)
 
-### 🧠 Modern AI & Agentic Copilots
-```diff
-+ [AI ACCELERATORS] : Cursor | GitHub Copilot | Claude API | Abacus.AI | Blackbox AI
-+ [AGENTIC LOGIC]   : Agentic AI Workflows | LLM Orchestration Frameworks | RAG Pipelines
-+ [INTELLIGENCE]    : Predictive Engineering | Automated Underwriting Models | Intelligent Threat Modeling
+### 🧠 Modern AI Workflows & GenAI Accelerators
+```json
+{
+  "AI_Accelerators": ["Cursor", "GitHub Copilot", "Claude API", "Abacus.AI", "Blackbox AI"],
+  "Agentic_Logic": ["Agentic AI Workflows", "LLM Orchestration Frameworks", "RAG Pipelines"],
+  "Intelligence_Layers": ["Predictive Threat Modeling", "Automated Underwriting Models"]
+}
