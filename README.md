@@ -29,7 +29,21 @@ I specialize in bridging high-performance backend ecosystems (.NET Core, Node.js
 * **State-Level Enterprise Modernization:** Led the architectural redesign and modernization of a high-throughput state-level food licensing and inspection application. Re-architected legacy modules into a modular, API-driven system using .NET Core APIs, Angular, React, and MVC.
 * **Technical Mentorship:** Guided cross-functional development teams, establishing code quality standards, setting up CI/CD pipelines, and driving best practices in Clean Architecture.
 💡 Check out my BankingFraudDetection and AiEnabled.PaymentPlatform repositories for practical implementations of these architecture principles.
----
+### 💳 Digital Payment Processing (FinTech)
+*   **Role:** Architect & Technical Lead driving global payment engine strategies.
+*   **Focus:** Engineering high-throughput system designs, fault-tolerant transactional workflows, and strict regulatory/security compliance frameworks on resilient multi-cloud environments.
+
+### 🏡 Mortgage & Insurance Enterprise Solutions
+*   **Role:** Core Enterprise Architect.
+*   **Focus:** Designed sophisticated workflow automated underwriting engines and high-volume data ingestion pipelines optimized for complex business rule validation and data integrity.
+
+### 🏭 MES (Manufacturing Execution Systems) & Core Modernization
+*   **Role:** Systems Modernization Lead.
+*   **Focus:** Spearheaded legacy monolithic conversions into clean, decoupled API-driven architectures (.NET Core / Angular / React) handling real-time operational data streaming and state tracking.
+
+### 👥 Engineering Governance & Mentorship
+*   **Role:** Technical Leader.
+*   **Focus:** Establishing enterprise-wide development patterns, driving CI/CD automation, and championing Clean Architecture practices across engineering cells.
 
 ### 📊 GitHub Stats & Ecosystem Activity
 
