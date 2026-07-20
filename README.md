@@ -1,3 +1,10 @@
+
+# Hi, I'm Raja Madamanchi 👋
+## Principal Full Stack Lead, Technical Lead & Enterprise Architect
+
+With over 16 years of hands-on experience, I design, architect, and deliver robust, high-performance enterprise applications. Currently, I serve as an **Architect and Technical Lead at Paysafe**, where I lead the architectural design and scalability of secure, high-throughput Digital Payment Processing platforms. 
+
+I specialize in bridging high-performance backend ecosystems (.NET Core, Node.js, Python) with modern, responsive frontends (Angular / React), fully backed by cloud-native infrastructures (AWS / Azure).
 <p align="left">
   <img src="https://img.shields.io/badge/Domain-PAYMENT%20PROCESSING-0052FF?style=for-the-badge&logo=paypal&logoColor=white" />
   <img src="https://img.shields.io/badge/Domain-MORTGAGE-8A2BE2?style=for-the-badge&logo=homeassistant&logoColor=white" />
@@ -8,13 +15,6 @@
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-INTEGRATION-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-AGENTIC%20WORKFLOWS-61DAFB?style=for-the-badge&logo=openai&logoColor=black" />
 </p>
-# Hi, I'm Raja Madamanchi 👋
-## Principal Full Stack Lead, Technical Lead & Enterprise Architect
-
-With over 16 years of hands-on experience, I design, architect, and deliver robust, high-performance enterprise applications. Currently, I serve as an **Architect and Technical Lead at Paysafe**, where I lead the architectural design and scalability of secure, high-throughput Digital Payment Processing platforms. 
-
-I specialize in bridging high-performance backend ecosystems (.NET Core, Node.js, Python) with modern, responsive frontends (Angular / React), fully backed by cloud-native infrastructures (AWS / Azure).
-
 ---
 
 ### 🛠️ Enterprise Technology Stack
