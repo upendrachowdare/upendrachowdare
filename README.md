@@ -1,8 +1,8 @@
 
 # Hi, I'm Raja Madamanchi 👋
 ## Principal Full Stack Lead, Technical Lead & Enterprise Architect
-### 🧠 5+ Years of Experience in AI / ML & LLM Agentic Workflows
-With over 16 years of hands-on experience, I design, architect, and deliver robust, high-performance enterprise applications. Currently, I serve as an **Architect and Technical Lead at Paysafe**, where I lead the architectural design and scalability of secure, high-throughput Digital Payment Processing platforms. 
+### 🧠 3+ Years of Experience in AI / ML & LLM Agentic Workflows
+With over 12 years of hands-on experience, I design, architect, and deliver robust, high-performance enterprise applications. Currently, I serve as an **Architect and Technical Lead at Paysafe**, where I lead the architectural design and scalability of secure, high-throughput Digital Payment Processing platforms. 
 
 I specialize in bridging high-performance backend ecosystems (.NET Core, Node.js, Python) with modern, responsive frontends (Angular / React), fully backed by cloud-native infrastructures (AWS / Azure).
 <p align="left">
